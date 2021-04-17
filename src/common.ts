@@ -1,5 +1,4 @@
-// TODO: Create cosmic common config file
-
+import { config, cosmicSync } from 'vatsalshah/cosmic';
 import { ensureFile, writeFile } from 'fs-extra';
 
 export const integrationConfig = (service: string, key: string) => {

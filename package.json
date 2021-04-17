@@ -51,6 +51,7 @@
     "googleapis": "^71.0.0",
     "pocketcasts": "^1.0.1",
     "spotify-web-api-node": "^5.0.2",
-    "twitter-lite": "^1.1.0"
+    "twitter-lite": "^1.1.0",
+    "vatsalshah-cosmic": "^1.0.1"
   }
 }
