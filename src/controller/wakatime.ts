@@ -4,7 +4,7 @@ import { lstat, pathExists, readdir, readJson } from 'fs-extra';
 import { join } from 'path';
 import { WakaTimeClient } from 'wakatime-client';
 
-import { integrationConfig, write } from '../common';
+import { integrationConfig, write } from '../config/common';
 import type { Integration } from '../integration';
 
 dayjs.extend(week);
